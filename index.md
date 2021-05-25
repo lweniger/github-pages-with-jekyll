@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Layne Weniger"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This isn't so bad
